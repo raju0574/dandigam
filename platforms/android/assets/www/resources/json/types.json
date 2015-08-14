@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Vegetables",
+    "src": "resources/images/types/Vegetables.jpg"
+  },
+  {
+    "name": "Fruits",
+    "src": "resources/images/types/Fruits.jpg"
+  },
+  {
+    "name": "Spices",
+    "src": "resources/images/types/Spices.jpg"
+  },
+  {
+    "name": "Nuts",
+    "src": "resources/images/types/Nuts.jpg"
+  },
+  {
+    "name": "Grains",
+    "src": "resources/images/types/Grains.jpg"
+  },
+  {
+    "name": "Pulses",
+    "src": "resources/images/types/Pulses.jpg"
+  },
+  {
+    "name": "Animals",
+    "src": "resources/images/types/Animals.jpg"
+  },
+  {
+    "name": "Birds",
+    "src": "resources/images/types/Birds.jpg"
+  },
+  {
+    "name": "Fishes",
+    "src": "resources/images/types/Fishes.jpg"
+  },
+  {
+    "name": "Colors",
+    "src": "resources/images/types/Colors.jpg"
+  },
+  {
+    "name": "Others",
+    "src": "resources/images/types/Others.jpg"
+  }
+]

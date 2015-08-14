@@ -1,0 +1,22 @@
+[
+  {
+    "name": "English",
+    "word": "abc"
+  },
+  {
+    "name": "Telugu",
+    "word": "cde"
+  },{
+    "name": "Tamil",
+    "word": "fgh"
+  },{
+    "name": "Kannada",
+    "word": "ijk"
+  },{
+    "name": "Malayalam",
+    "word": "lmn"
+  },{
+    "name": "Hindi",
+    "word": "opq"
+  }
+]
